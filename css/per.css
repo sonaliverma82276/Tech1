@@ -15,6 +15,9 @@ td{
     #profimgs{
       width: 60px;
     }
+    .isfmh{
+      font-size: 1.3rem;
+    }
     td{
       padding: 11px;
       max-width: 100px;
